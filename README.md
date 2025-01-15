@@ -24,10 +24,10 @@ This personal project aim to identify the stage of disease of potatoes. It helps
 1. Click the empty space in the website and selected infected potatoes image to upload
 
 ## Result
-[Example of healthy potato potato result](Result/IMG_2636.png)
+[Example of healthy potato potato result](Result/healthy-potato.png)
 
-[Example of early blight potato potato result](Result/IMG_2637.png)
+[Example of early blight potato potato result](Result/early-blight-potato.png)
 
-[Example of late blight potato potato result](Result/IMG_2638.png)
+[Example of late blight potato potato result](Result/late-blight-potato.png)
 
 
